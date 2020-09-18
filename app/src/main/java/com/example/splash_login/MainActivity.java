@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
                 finish();
             }
         },Splash_time);
-    getActionBar().hide();
+
     }
 
 }
